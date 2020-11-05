@@ -12,7 +12,7 @@ https://anchor.fm/perreoandcode
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Damstyx)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andmontc/)
-[<img src="https://img.shields.io/badge/Gmail-%20-orange/>](https:oscarandresmontes@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-%20-orange/">](https:oscarandresmontes@gmail.com)
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Languages and Skills</b></summary>
