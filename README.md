@@ -3,7 +3,7 @@
 👋 &nbsp;Hello, world! <br/>
 =======
 
-I'm Oscar Andres, a creative and full-stack developer and Bioengineer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
+I'm Oscar Andres, a creative full-stack developer and Bioengineer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
 
 Co-founder of Perreo&Code; a podcast dedicated to technology and development issues where we share and teach in a different and fun way, based on our experience.
 https://anchor.fm/perreoandcode
