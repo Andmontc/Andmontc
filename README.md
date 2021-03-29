@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbSihCxHSyvlMxGa989ij4N9-qjHvNKdGnpA&usqp=CAU" width="144" align="right" hspace="0" />
 
-👋 &nbsp;Hello, world! <br/>
+👋 &nbsp;Hi! <br/>
 =======
 
 I'm Oscar Andres, a creative full-stack developer and Bioengineer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
