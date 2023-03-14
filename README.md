@@ -13,12 +13,12 @@ https://anchor.fm/perreoandcode
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Damstyx)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andmontc/)
 
-<details>
-	<summary>✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b></summary>
-	<br/>
-	  <a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
-  	  </a>
-</details>
 
-[![Andmontc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andmontc)](https://github.com/anuraghazra/github-readme-stats)
+<summary>✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b></summary>
+<br/>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
+</a>
+
+
+[![Andmontc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andmontc&show_icons=true&theme=radical)](https://github.com/Andmontc/github-readme-stats)
