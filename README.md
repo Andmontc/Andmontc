@@ -28,6 +28,8 @@ https://anchor.fm/perreoandcode
 <a href="https://github.com/Andmontc/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andmontc&show_icons=true&theme=radical" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/Andmontc/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andmontc&langs_count=8)" />
 </a>
