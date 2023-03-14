@@ -3,7 +3,7 @@
 👋 &nbsp;Hi! <br/>
 =======
 
-I'm Oscar Andres, a creative full-stack developer and Bioengineer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
+I'm Oscar Andres, a creative Test Automation Engineer, full-stack developer and Bioengineer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
 
 Co-founder of Perreo&Code; a podcast dedicated to technology and development issues where we share and teach in a different and fun way, based on our experience.
 https://anchor.fm/perreoandcode
@@ -16,8 +16,7 @@ https://anchor.fm/perreoandcode
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Languages and Skills</b></summary>
 	<br/>
-<a href="https://reactjs.org/" target="_blank"> <img src="./react-brands.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png" alt="Vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./js-brands.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://golang.org/" target="_blank"> <img src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" alt="Golang" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="./python-brands.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="./html5-brands.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./css3-alt-brands.svg" alt="css3" width="40" height="40"/> </a> </a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </details>
 
 <details>
