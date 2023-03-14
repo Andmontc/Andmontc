@@ -30,5 +30,5 @@ https://anchor.fm/perreoandcode
 </a>
 
 <a href="https://github.com/Andmontc/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andmontc&layout=compact)" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andmontc&hide_progress=true)" />
 </a>
