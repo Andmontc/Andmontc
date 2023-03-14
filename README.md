@@ -14,11 +14,17 @@ https://anchor.fm/perreoandcode
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andmontc/)
 
 
-<summary>✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b></summary>
+✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b>
 <br/>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
 </a>
-
-
-[![Andmontc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andmontc&show_icons=true&theme=radical)](https://github.com/Andmontc/github-readme-stats)
+<br/>
+✨&nbsp;&nbsp;&nbsp;<b>Andmontc's GitHub stats</b>
+<br/>
+<a href="https://github.com/Andmontc/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andmontc&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Andmontc/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andmontc" />
+</a>
