@@ -16,6 +16,7 @@ https://anchor.fm/perreoandcode
 
 ✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b>
 <br/>
+<br/>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
 </a>
@@ -27,8 +28,7 @@ https://anchor.fm/perreoandcode
 <a href="https://github.com/Andmontc/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andmontc&show_icons=true&theme=radical" />
 </a>
-<br/>
-<br/>
+
 <a href="https://github.com/Andmontc/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andmontc&layout=compact)" />
 </a>
