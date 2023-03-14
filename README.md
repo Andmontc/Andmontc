@@ -13,9 +13,12 @@ https://anchor.fm/perreoandcode
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Damstyx)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andmontc/)
 
-✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b>
-
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio)](https://skillicons.dev)
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b></summary>
+	<br/>
+	  <a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
+  	  </a>
 
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
