@@ -19,6 +19,7 @@ https://anchor.fm/perreoandcode
 	  <a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio" />
   	  </a>
+</details>
 
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
