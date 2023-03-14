@@ -15,7 +15,7 @@ https://anchor.fm/perreoandcode
 
 ✨&nbsp;&nbsp;&nbsp;<b>Languages, Frameworks, and tools:</b>
 
-[![My Skills](https://skillicons.dev/icons i=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio&perline=5)](https://skillicons.dev)
+[![MySkills(https://skillicons.dev/iconsi=java,py,js,c,go,maven,gradle,selenium,django,dynamodb,flask,git,heroku,idea,jenkins,materialui,mongodb,netlify,nodejs,postman,react,redux,vue,regex,sass,html,css,visualstudio&perline=5)](https://skillicons.dev)
 
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
